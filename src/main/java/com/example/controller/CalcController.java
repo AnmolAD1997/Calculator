@@ -10,7 +10,7 @@ public class CalcController {
 
 	@GetMapping("/sum")
 	String calc() {
-		return "The sum is 1000";
+		return "The sum is 100000";
 	}
 	
 	
